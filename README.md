@@ -3,5 +3,5 @@
 
 Lab 1. MatMul  
 Lab 2. VectorSum  
-Lab 3. PI calc  
+Lab 3. Salt and Pepper
 Lab 4. Genetic algorithm  
