@@ -37,9 +37,13 @@
 ![image](https://user-images.githubusercontent.com/60855603/202438578-15aab62c-95c5-4395-950a-947c42b771fd.png) </br>
 ![image](https://user-images.githubusercontent.com/60855603/202438645-076b4814-d201-4cc8-bcec-e369860f393f.png) </br>
 ![image](https://user-images.githubusercontent.com/60855603/202438912-5c3528c6-6679-4ffa-b3cb-4badbc6844da.png) </br>
-### Результаты
+## Результаты
+### Результат работы ядра (outputGPU512)
+![outputGPU512](https://user-images.githubusercontent.com/60855603/202441847-96f9ada9-9575-4c75-a4fc-13cf77538f47.jpg)
+### Численные значения
 Значения полученные при проведении эксперимента: </br> 
 ![image](https://user-images.githubusercontent.com/60855603/202439140-993aa130-c3fb-41b2-ac0c-552fa2ee5a72.png) </br>
+### Графики
 График ускорения:</br>
 </br>
 Графики времени выполнения: </br>
