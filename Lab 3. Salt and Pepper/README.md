@@ -7,22 +7,22 @@
 Распараллеливалась операция вычисления каждого пиксела. Каждая нить занималась вычислением своего пикселя. Вся остальная логика остается прежней и ничем не отличается от последовательной программы.
 ## Исходные данные для эксперимента
 ### Цветная Лена
-![Lena1024](https://user-images.githubusercontent.com/60855603/202436462-3a5de29a-b4b9-4263-b047-f7bf7ce6bdf5.jpg)
+![Lena1024](https://user-images.githubusercontent.com/60855603/202436462-3a5de29a-b4b9-4263-b047-f7bf7ce6bdf5.jpg) </br>
 ### Картинки с добавленным шумом
-![input256](https://user-images.githubusercontent.com/60855603/202436294-9a9d4562-497e-47d7-8f14-6a7198038abf.jpg)
-![input512](https://user-images.githubusercontent.com/60855603/202436295-4ea9fa5e-8bf9-4879-baf4-021643ccd646.jpg)
-![input1024](https://user-images.githubusercontent.com/60855603/202436290-283407d0-89a9-4993-bb5c-122609fbfe3e.jpg)
+![input256](https://user-images.githubusercontent.com/60855603/202436294-9a9d4562-497e-47d7-8f14-6a7198038abf.jpg) </br>
+![input512](https://user-images.githubusercontent.com/60855603/202436295-4ea9fa5e-8bf9-4879-baf4-021643ccd646.jpg) </br>
+![input1024](https://user-images.githubusercontent.com/60855603/202436290-283407d0-89a9-4993-bb5c-122609fbfe3e.jpg) </br>
 ### Важный момент при подготовке изображения
 Я преследовал цель зашумить картинки как-то сбалансировано, чтобы алгоритм точно смог справиться с таким шумом. 
 ## Моя фишечка
 Добавил отрисовку процентов в ходе работе и примерное время окончания. Отрисовка производится на каждой итерации. 
 ### Время
 Считается время выполнения за 1 внешний цикл, а потом происходит вычисление с использованием номера итерации.
-![image](https://user-images.githubusercontent.com/60855603/202438578-15aab62c-95c5-4395-950a-947c42b771fd.png)
-![image](https://user-images.githubusercontent.com/60855603/202438645-076b4814-d201-4cc8-bcec-e369860f393f.png)
-![image](https://user-images.githubusercontent.com/60855603/202438912-5c3528c6-6679-4ffa-b3cb-4badbc6844da.png)
+![image](https://user-images.githubusercontent.com/60855603/202438578-15aab62c-95c5-4395-950a-947c42b771fd.png) </br>
+![image](https://user-images.githubusercontent.com/60855603/202438645-076b4814-d201-4cc8-bcec-e369860f393f.png) </br>
+![image](https://user-images.githubusercontent.com/60855603/202438912-5c3528c6-6679-4ffa-b3cb-4badbc6844da.png) </br>
 Значения: 
-![image](https://user-images.githubusercontent.com/60855603/202439140-993aa130-c3fb-41b2-ac0c-552fa2ee5a72.png)
+![image](https://user-images.githubusercontent.com/60855603/202439140-993aa130-c3fb-41b2-ac0c-552fa2ee5a72.png) </br>
 График ускорения:
 Графики времени выполнения: 
 ## Выводы
