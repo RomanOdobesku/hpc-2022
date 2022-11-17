@@ -9,8 +9,11 @@
 ### Цветная Лена
 ![Lena1024](https://user-images.githubusercontent.com/60855603/202436462-3a5de29a-b4b9-4263-b047-f7bf7ce6bdf5.jpg) </br>
 ### Картинки с добавленным шумом
+#### 256x256
 ![input256](https://user-images.githubusercontent.com/60855603/202436294-9a9d4562-497e-47d7-8f14-6a7198038abf.jpg) </br>
+#### 512x512
 ![input512](https://user-images.githubusercontent.com/60855603/202436295-4ea9fa5e-8bf9-4879-baf4-021643ccd646.jpg) </br>
+#### 1024x1024
 ![input1024](https://user-images.githubusercontent.com/60855603/202436290-283407d0-89a9-4993-bb5c-122609fbfe3e.jpg) </br>
 ### Важный момент при подготовке изображения
 Я преследовал цель зашумить картинки как-то сбалансировано, чтобы алгоритм точно смог справиться с таким шумом. 
