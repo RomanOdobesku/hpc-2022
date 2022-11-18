@@ -30,7 +30,15 @@
 ![image](https://user-images.githubusercontent.com/60855603/202438912-5c3528c6-6679-4ffa-b3cb-4badbc6844da.png) </br>
 ## Результаты
 ### Результат работы ядра с sigmaD = 0.7, sigmaR = 20 (outputGPU1024_(0.7,20))
-![outputGPU512](https://user-images.githubusercontent.com/60855603/202441847-96f9ada9-9575-4c75-a4fc-13cf77538f47.jpg)
+![outputGPU1024_(0.7,20)]()
+### Результат работы ядра с sigmaD = 1.5, sigmaR = 10 (outputGPU1024_(1.5,10))
+![outputGPU1024_(1.5,10)]()
+### Результат работы ядра с sigmaD = 1.5, sigmaR = 20 (outputGPU1024_(1.5,20))
+![outputGPU1024_(1.5,20)]()
+### Результат работы ядра с sigmaD = 1.5, sigmaR = 100 (outputGPU1024_(1.5,100))
+![outputGPU1024_(0.7,20)]()
+### Результат работы ядра с sigmaD = 3, sigmaR = 20 (outputGPU1024_(3,20))
+![outputGPU1024_(3,20)]()
 ### Численные значения
 Значения полученные при проведении эксперимента: </br> 
 ![image](https://user-images.githubusercontent.com/60855603/202439140-993aa130-c3fb-41b2-ac0c-552fa2ee5a72.png) </br>
